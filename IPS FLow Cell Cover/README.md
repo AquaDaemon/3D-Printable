@@ -2,7 +2,8 @@
 
 IPS flow cell is very exposed, this is a simple cover to protect the cell and probes from the sun.
 
-<img src="images/Flow Cell.jpg">
+<img src="images/Flow Cell.jpg" width="400">
+<img src="images/Flow Cell open.jpg" width="600">
 
 Print Settings
   * Filament recommendation PETG, ASA, ABS.
