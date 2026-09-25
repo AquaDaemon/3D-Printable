@@ -1,11 +1,8 @@
 # Aqualinkd-Cases  
 
-Much more information coming - initial release
+Cases for many SBC's to fit official AqualinkD RS485 hat.
 
-Cases for many SBC's and official AqualinkD RS485 hat.
-
-In this repository you will fine all files to print you own case, and original Fusion 360 design file so you can modify as you see fit.
-
+In this repository you will find all files to print you own case, and original Fusion 360 design file so you can modify as you see fit.
 
 * Raspberry Pi, Bananna Pi, Orange Pi
 * Radxa Zero 3W
@@ -34,9 +31,10 @@ Print Settings
   
 
 Within the file(s)
-  * The `.f3d` file can be opened in Fusion 360 and modified as you see fit.
+<!--  * The `.f3d` file can be opened in Fusion 360 and modified as you see fit. -->
   * The `.3mf` file can be opened in OrcaSlicer / Bambu Studio or equivalent, and has appropriate print settings.
-  * If you want `stl` files for a different slicer, then use of of the above files in appropriate software and export the stl's you want.
+  * The `.3mf` file has all the individual parts / options.
+  * If you want individual `stl` files for a different slicer, then use the `.3mf` files in appropriate software and export the `stl's` you want.
     * At this time we do not create a separate `stl` for every case option, you need to do that yourself. 
   * Radxa non antenna has 2 options
     * With accessory & CF cutouts
