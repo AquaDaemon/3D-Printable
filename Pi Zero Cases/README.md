@@ -11,21 +11,21 @@ In this repository you will fine all files to print you own case, and original F
 * Radxa Zero 3W
 * Radxa Zero 3W (with Antenna mounting)
 
-<img src="AqualinkD Cases 2.jpg?raw=true">
+<img src="images/AqualinkD Cases 2.jpg?raw=true">
 
 <table width="100%" border="0" cellpadding="20px">
  <tr><th width="50%">Radxa with Antenna</th><th width="50%">Pi Zero (All zero form factor)</img></th><tr>
- <tr><td><img src="Radxa Zero Case.jpg?raw=true"></td><td style="vertical-align: bottom;"><img src="Pi Zero Case.jpg?raw=true"></td></tr>
-<tr><td><img src="Radxa Zero Exploded.jpg?raw=true"></td><td><img src="Pi Zero Exploded.jpg?raw=true"></td></tr>
+ <tr><td><img src="images/Radxa Zero Case.jpg?raw=true"></td><td style="vertical-align: bottom;"><img src="images/Pi Zero Case.jpg?raw=true"></td></tr>
+<tr><td><img src="images/Radxa Zero Exploded.jpg?raw=true"></td><td><img src="images/Pi Zero Exploded.jpg?raw=true"></td></tr>
 </table>
 
 
 <!--
-<img src="IMG_0540.jpg?raw=true">'
-<img src="IMG_0541.jpg?raw=true">
-<img src="IMG_0540.jpg?raw=true">
+<img src="images/IMG_0540.jpg?raw=true">'
+<img src="images/IMG_0541.jpg?raw=true">
+<img src="images/IMG_0540.jpg?raw=true">
 -->
-<!--<img src="Radxa Zero3 Antenna Case.png?raw=true"> -->
+<!--<img src="images/Radxa Zero3 Antenna Case.png?raw=true"> -->
 
 Print Settings
   * Filament recommendation PETG, ASA, ABS.
