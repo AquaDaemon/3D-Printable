@@ -4,7 +4,7 @@ IPS flow cell is very exposed, this is a simple cover to protect the cell and pr
 
 <img src="images/Flow Cell.jpg?raw=true" width="400">
 <img src="images/Flow Cell open.jpg?raw=true" width="600">
-
+<img src="images/Flow Cell open.png?raw=true" width="600">
 Print Settings
   * Filament recommendation PETG, ASA, ABS.
   * No need for supports, just slow down head for overhangs.
