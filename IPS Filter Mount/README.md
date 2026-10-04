@@ -1,6 +1,7 @@
 # IPS Filter/Strainer mount
 Mounting the IPS filter to a 2" vertical pipe. Allows for strainer to be cleaned without removing it from the mount.
 
+<img src="images/Filter Mount v5.png">
 <img src="images/filter mount.jpg">
 
 
