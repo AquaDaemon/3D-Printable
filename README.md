@@ -1,6 +1,17 @@
+
+<p align="center">
+  <img src="https://aquadaemon.org/images/aqualinkd-3d-printable.png" width="120" alt="AquachemD logo">
+</p>
+
+<h1 align="center">3D-Printable</h1>
+<p align="center">3D printable cases, parts, mounts, and other hardware designs for AquaDaemon projects.</p>
+
+
+<!--
 # 3D-Printable
 
 3D printable cases, parts, mounts, and other hardware designs for AquaDaemon projects.
+-->
 
 ## License
 
