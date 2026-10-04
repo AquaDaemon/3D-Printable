@@ -1,12 +1,19 @@
 
+<div align="right">
+  <a href="https://aquadaemon.org">
+    <img src="https://aquadaemon.org/images/aquadaemon-project2.png" height="48" alt="AquaDaemon">
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://aquadaemon.org/images/aqualinkd-3d-printable.png" width="120" alt="AquachemD logo">
+  <img src="https://aquadaemon.org/images/aqualinkd-3d-printable.png" width="120" alt="3D printable logo">
 </p>
+
 
 <h1 align="center">3D-Printable</h1>
 <p align="center">3D printable cases, parts, mounts, and other hardware designs for AquaDaemon projects.</p>
 
-
+---
 <!--
 # 3D-Printable
 
