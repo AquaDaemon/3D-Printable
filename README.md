@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://aquadaemon.org/images/aqualinkd-3d-printable.png" width="120" alt="3D printable logo">
+  <img src="https://aquadaemon.org/images/inline/aqualinkd-3d-printable.png" width="120" alt="3D printable logo">
 </p>
 
 
