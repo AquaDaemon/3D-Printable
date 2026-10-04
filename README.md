@@ -14,11 +14,17 @@
 <p align="center">3D printable cases, parts, mounts, and other hardware designs for AquaDaemon projects.</p>
 
 ---
-<!--
-# 3D-Printable
 
-3D printable cases, parts, mounts, and other hardware designs for AquaDaemon projects.
--->
+For AqualinkD
+
+- [Raspberry Pi Zero Cases](./AqualinkD%20Pi%20Zero%20Cases/)
+
+For AquachemD
+
+- [IPS Flow Cell Cover](./IPS%20Flow%20Cell%20Cover)
+- [IPS Filter Mount](./IPS%20Filter%20Mount/)
+
+
 
 ## License
 
